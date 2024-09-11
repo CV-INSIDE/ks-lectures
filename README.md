@@ -1,4 +1,6 @@
-# ks-project
+# ks-lectures
+
+To incur in the ks project, the following readings are mandatory:
 
 * [On the in vivo recognition of kidney stones using machine learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10384337)
 * [Assessing deep learning methods for the identification of kidney stones in endoscopic images](https://arxiv.org/pdf/2103.01146)
@@ -10,3 +12,6 @@
 * [Improving automatic endoscopic stone recognition using a multi-view fusion approach enhanced with two-step transfer learning](https://openaccess.thecvf.com/content/ICCV2023W/LXCV/papers/Lopez-Tiro_Improving_Automatic_Endoscopic_Stone_Recognition_Using_a_Multi-view_Fusion_Approach_ICCVW_2023_paper.pdf)
 * [Evaluating the plausibility of synthetic images for improving automated endoscopic stone recognition](https://ieeexplore.ieee.org/abstract/document/10600716)
 * [A metric learning approach for endoscopic kidney stone identification](https://arxiv.org/pdf/2307.07046)
+
+
+Francisco
