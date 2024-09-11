@@ -14,8 +14,7 @@ To incur in the ks project, the following readings:
 * A metric learning approach for endoscopic kidney stone identification [[Paper](https://arxiv.org/pdf/2307.07046)]
 
 
-🌟 Mandatory paper
-I will soon add the respective repositories
-
+🌟 Mandatory paper  
+I will soon add the respective repositories  
 
 Last updated by Francisco: 11 Sept '24
