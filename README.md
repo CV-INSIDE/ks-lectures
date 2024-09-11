@@ -15,6 +15,8 @@ To incur in the ks project, the following readings:
 
 
 🌟 Mandatory paper  
-I will soon add the respective repositories  
 
-Last updated by Francisco: 11 Sept '24
+
+  
+*I will soon add the respective repositories*       
+Last updated by Francisco: 11 Sept '24     
